@@ -1,0 +1,1 @@
+addSbtPlugin("com.typesafe" % "test-plugin" % sys.props("project.version"))
